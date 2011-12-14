@@ -1,0 +1,27 @@
+School:
+
+
+Class:
+    School
+    Students
+    Active
+
+
+TeacherProfile
+
+
+Users:
+    Teacher:
+        School
+        User
+        Classes
+        TeacherProfile
+
+    Parent:
+        Children
+
+    Child:
+        first name
+        middle
+        last name
+        QR Code
